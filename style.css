@@ -1,0 +1,149 @@
+*{
+padding: 0px;
+margin: 0px;
+list-style: none;
+font-family: 'PT Serif', serif;
+}
+/* HEAD*/
+header
+{
+	background-color:#ffffff;
+	background-size: cover; cover;
+	text-align: text top;
+	padding-bottom:15px;
+	padding-top: 10px;
+	
+}	
+
+/* BODY OF WEB*/
+body
+{
+	background-image: url(aa.jpg);
+	background-repeat: no-repeat;
+	text-align: center-right;
+	background-size: cover; cover;
+	
+}
+/*  MOHRY'S SOJOURN RESORT*/
+
+h2{
+	color:#074170;
+	font-size:150%;
+	font-weight:300;
+	}
+	
+/* HEADER TAGLINES */
+header pre
+{
+	color:#fa9f3e;
+	font-size:100%;
+	font-weight:300;
+	text-align:center;
+
+}
+.wrapper
+{
+	text-align: center;
+
+}
+/* navigation bar are*/
+
+.nav-area a{
+	text-decoration: none;
+	float:left;
+	text-align: center;
+	position: relative;
+	padding: 16px 18px;
+	color: black;
+	font-family: 'Oswald', sans-serif;
+	font-size:150%;
+	left: 30%
+
+}
+
+/* hover animation nav bar*/
+
+.nav-area a:hover
+{
+	background-color: #95bdfc;
+	transition: 0.5s;
+	letter-spacing: 2px;
+	margin-top:10px;
+	margin-bottom:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+
+
+}
+
+body .Inside {
+	
+	text-align:center;
+	padding-right:400px;
+	padding-bottom:50px;
+	font-weight: 500;
+	color:#baf7f3;
+	padding-left:600px;
+	font-size:20px;
+	
+	
+}
+body .tanan{
+	height:45px;
+	width:100px;
+	
+}
+body .image1{
+	
+	float:side-left;
+	padding:50px;
+	padding-left:100px;
+	
+
+
+}
+
+#image2{
+	
+	float:side-left;
+	padding-right:1000px;
+	padding-left: 50px;
+	margin: 20px;
+
+}
+
+#image3{
+	
+	float:left-side;
+	margin:20px;
+	padding-left:0px;
+	
+
+
+	
+
+
+}
+footer {
+	background-image: url(footer.jpg);
+	position: relative;
+	color: black;
+	padding-bottom:20px;
+	padding-top:20px;
+	background-size:50px;
+	
+
+	
+	
+}
+.Last a {
+
+	text-decoration:none;
+	color: #95bdfc;
+	padding-left:350px;
+	font-size:19px;
+	
+}
+#policy{
+	padding-left:342px;
+}
